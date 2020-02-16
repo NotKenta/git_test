@@ -1,0 +1,1 @@
+This is NotKenta's first git project 
