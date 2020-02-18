@@ -1,1 +1,1 @@
-This is NotKenta's first git project 
+This is NotKenta's first git project!
